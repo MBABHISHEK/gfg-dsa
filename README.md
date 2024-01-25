@@ -33,5 +33,5 @@ The repository is structured in the following way:
 To access the solutions, simply navigate to the relevant problem category and choose the specific problem you are interested in. Each solution file is named appropriately for easy identification.
 
 ```bash
-git clone https://github.com/your-username/GeeksforGeeks-Solutions.git
-cd GeeksforGeeks-Solutions/ProblemCategory1
+git clone https://github.com/MBABHISHEK/gfg-dsa.git
+cd gfg-dsa
